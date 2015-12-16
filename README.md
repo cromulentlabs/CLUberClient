@@ -21,7 +21,10 @@ in China when needed.
 ### CocoaPods
 
 CLUberClient is available on CocoaPods and can be install by adding
-'pod 'CLUberClient' to your pod files.
+```
+pod 'CLUberClient'
+```
+to your pod files.
 
 ### Manually
 
